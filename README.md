@@ -1,104 +1,116 @@
-![CRX Labs](./banner.png)
+![CRX Labs](https://raw.githubusercontent.com/CRX-Labs/.github/main/banner.png)
 
-<p align="center">
-  <strong>INDEPENDENT RESEARCH & ENGINEERING</strong>
-  <br />
-  <sub>Research. Engineer. Advance.</sub>
-</p>
+# CRX Labs
 
-<p align="center">
-  <a href="https://github.com/CRX-Labs">GitHub Organization</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/CRX-Labs/.github/tree/main/profile">Organization Profile</a>
-</p>
+### Independent Research & Engineering
 
----
+**Research. Engineer. Advance.**
 
-## The purpose of this repository
+CRX Labs is an independent research and engineering initiative focused on exploring emerging technologies, advancing intelligent systems, and translating technical ideas into meaningful engineering outcomes.
 
-This repository contains the shared GitHub profile and organization-level resources for **CRX Labs**.
+We bring together research-driven thinking, experimental development, and disciplined engineering to investigate complex problems and build practical technological solutions.
 
-CRX Labs is an independent research and engineering initiative focused on investigating emerging technologies, developing intelligent systems, and turning technically grounded ideas into carefully engineered work.
-
-Our work spans applied research, experimental development, software and systems engineering, technical writing, and selected collaborative or product-oriented initiatives. The emphasis is not on producing activity for its own sake; it is on solving well-defined problems and documenting what the work actually demonstrates.
-
-> **Research should be traceable. Engineering should be testable. Claims should be verifiable.**
-
-## Areas of work
-
-| Focus | What it covers |
-|---|---|
-| **Applied AI & Intelligent Systems** | Machine learning, AI architectures, evaluation, and practical intelligent applications. |
-| **Systems & Software Engineering** | Architecture, dependable software, developer tooling, and maintainable systems. |
-| **Autonomous Technologies** | Autonomous software, decision systems, automation, and related engineering investigations. |
-| **Research & Technical Publications** | Experiments, technical articles, investigations, methods, and evidence-backed findings. |
-| **Experimental & Product Engineering** | Prototypes, proof-of-concepts, and selected initiatives developed toward practical use. |
-| **Open-Source Innovation** | Reusable tools, public project development, and meaningful community collaboration. |
-
-These are areas of focus, not a claim that every area has a mature product or active project at all times. Project-specific repositories describe their actual status and scope.
-
-## How we approach the work
-
-- **Problem before technology** — define the problem, constraints, and success criteria before selecting a solution.
-- **Evidence over hype** — distinguish measured results from estimates, hypotheses, and future plans.
-- **Engineering discipline** — prefer clear architecture, readable implementations, testing, and maintainability.
-- **Reproducibility** — document relevant methods, environments, dependencies, and evaluation procedures where practical.
-- **Security and responsibility** — protect credentials, sensitive data, private assets, and users.
-- **Intellectual honesty** — acknowledge limitations, failed approaches, uncertainty, and unresolved work.
-- **Proper attribution** — credit original work, sources, contributors, and third-party components.
-
-## Working with our repositories
-
-Each repository is the source of truth for its own purpose, setup instructions, status, contribution process, and licensing terms. Before using or contributing to a project, read its README and any repository-specific documentation.
-
-A repository may be one of several kinds of work:
-
-- **Public open-source work** — intentionally released for public use and collaboration under its stated license.
-- **Research or experimental work** — investigations, prototypes, benchmarks, or proof-of-concepts that may be incomplete.
-- **Restricted or private work** — internal, commissioned, commercial, or otherwise access-controlled work that is not intended for public distribution.
-
-The presence of a project name or a public description does not grant permission to use private materials, datasets, credentials, or intellectual property. Always follow the access and license terms stated by the project.
-
-## Contribution principles
-
-We value contributions that improve the substance, reliability, clarity, or usefulness of a project.
-
-Before opening an issue or pull request:
-
-1. Read the target repository's README and contribution instructions.
-2. Check existing issues and pull requests to avoid duplicate work.
-3. Keep changes focused and explain the reasoning behind them.
-4. Include relevant tests, examples, or evaluation evidence when applicable.
-5. Disclose limitations, breaking changes, and any security implications.
-
-Contribution availability and review requirements may differ by repository. A public repository is not automatically open to every type of contribution; follow its stated policy.
-
-## Security and responsible disclosure
-
-Do not publish passwords, API keys, tokens, private datasets, personal information, or confidential project material in issues or pull requests.
-
-For a suspected vulnerability, use the repository's private vulnerability reporting option when available. Otherwise, follow the security contact or reporting instructions published by that project. Please avoid publicly disclosing exploitable details before maintainers have had a reasonable opportunity to investigate.
-
-## Research integrity and intellectual property
-
-Research findings and performance figures should be accompanied by enough context to understand how they were obtained. Where relevant, project documentation should identify datasets, evaluation conditions, baselines, assumptions, and limitations.
-
-Licensing is defined at the individual repository or project level. **Do not assume that all material published under the organization is open-source, commercially reusable, or available for redistribution.** Third-party assets and dependencies remain subject to their own licenses.
-
-## Organization resources
-
-- **Organization:** [CRX Labs](https://github.com/CRX-Labs)
-- **Organization profile:** [`profile/README.md`](./profile/README.md)
-- **Public repositories:** [github.com/CRX-Labs](https://github.com/CRX-Labs?tab=repositories)
-
-For project-specific questions, use the communication channel listed in that project's repository.
+Our work spans applied artificial intelligence, systems engineering, autonomous technologies, experimental products, and technical research.
 
 ---
 
+## What We Explore
+
+### Applied Artificial Intelligence
+Exploring machine learning, intelligent systems, AI architectures, agentic workflows, and emerging computational approaches.
+
+### Systems & Software Engineering
+Designing and developing reliable, scalable, secure, and maintainable software systems through sound engineering practices.
+
+### Autonomous & Emerging Technologies
+Investigating autonomous architectures, intelligent automation, computer vision, and next-generation technological systems.
+
+### Research & Publications
+Developing technical investigations, research articles, engineering studies, experimental findings, and documented technical practices.
+
+### Product & Experimental Development
+Transforming ideas into prototypes, experimental systems, and practical technology initiatives, including selected commercial engineering engagements.
+
+### Open-Source Innovation
+Building and maintaining open-source projects, reusable engineering tools, and collaborative development initiatives.
+
+---
+
+## How We Work
+
+We believe meaningful technological progress requires more than implementation alone.
+
+Our approach is built around:
+
+- **Research Before Assumptions** — Investigate problems before committing to solutions.
+- **Engineering Over Appearance** — Prioritize functional systems over superficial demonstrations.
+- **Evidence Over Claims** — Support technical conclusions with measurable results.
+- **Integrity Over Hype** — Communicate capabilities, limitations, and findings honestly.
+- **Documentation Over Guesswork** — Preserve technical decisions, methodologies, and reproducibility.
+- **Security by Design** — Respect privacy, intellectual property, and responsible development.
+
+---
+
+## Research & Engineering Initiatives
+
+Our initiatives cover different stages of technological development, from early research and architectural exploration to experimental implementation and evaluated systems.
+
+We distinguish clearly between research concepts, prototypes, active development, and completed implementations.
+
+**Selected initiative:**
+
+- [Sanjeevani OS](https://github.com/CRX-Labs/Sanjeevani-OS) — An initiative exploring technology-driven approaches to improving rural healthcare accessibility.
+
+---
+
+## Technical Publications & Insights
+
+We value knowledge that can be examined, challenged, reproduced, and built upon.
+
+Our publication interests include:
+
+- Applied AI and machine learning.
+- Intelligent and autonomous systems.
+- Software and systems architecture.
+- Engineering methodologies and best practices.
+- Technical investigations and experimental findings.
+
+---
+
+## Collaboration & Contributions
+
+We welcome meaningful technical contributions, thoughtful discussions, and collaborations aligned with our research and engineering interests.
+
+We value technical substance, responsible development, constructive feedback, and consistent execution.
+
+Each public project may have its own contribution guidelines and participation requirements.
+
+---
+
+## Intellectual Property & Responsible Development
+
+Not every research initiative, engineering engagement, or experimental project is intended for public release.
+
+Project-specific licenses, access restrictions, and documentation govern how individual repositories and their contents may be used.
+
+We respect confidentiality, attribution, intellectual property, and responsible disclosure practices.
+
+---
+
+## Connect With CRX Labs
+
+- **GitHub:** https://github.com/CRX-Labs
+- **Projects:** Explore our public repositories.
+- **Collaboration:** Engage through the relevant project's public discussions or contribution channels.
+
+---
+
 <p align="center">
-  <strong>CRX LABS</strong>
-  <br />
-  <sub>Independent Research & Engineering</sub>
-  <br />
-  <sub>Building with rigor. Publishing with integrity.</sub>
+
+**CRX LABS**
+
+*Independent Research & Engineering*
+
+*Research with intent. Engineer with precision. Advance with purpose.*
+
 </p>
