@@ -1,3 +1,5 @@
+![CRX Labs](./banner.png)
+
 # CRX Labs — Organization Infrastructure
 
 <p align="center">
