@@ -1,113 +1,104 @@
 ![CRX Labs](./banner.png)
 
-# CRX Labs — Organization Infrastructure
-
 <p align="center">
-  <strong>Research. Engineer. Advance.</strong>
+  <strong>INDEPENDENT RESEARCH & ENGINEERING</strong>
+  <br />
+  <sub>Research. Engineer. Advance.</sub>
 </p>
 
 <p align="center">
-  Organization-wide configuration, engineering standards, governance policies, and shared resources for CRX Labs.
+  <a href="https://github.com/CRX-Labs">GitHub Organization</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/CRX-Labs/.github/tree/main/profile">Organization Profile</a>
 </p>
 
 ---
 
-## About This Repository
+## The purpose of this repository
 
-This repository maintains the shared GitHub configuration and organizational infrastructure of **CRX Labs**.
+This repository contains the shared GitHub profile and organization-level resources for **CRX Labs**.
 
-It serves as the central reference point for repository standards, contribution workflows, community guidelines, security practices, and organization-wide documentation.
+CRX Labs is an independent research and engineering initiative focused on investigating emerging technologies, developing intelligent systems, and turning technically grounded ideas into carefully engineered work.
 
-The objective is to establish consistency, maintainability, transparency, and engineering discipline across projects maintained under CRX Labs.
+Our work spans applied research, experimental development, software and systems engineering, technical writing, and selected collaborative or product-oriented initiatives. The emphasis is not on producing activity for its own sake; it is on solving well-defined problems and documenting what the work actually demonstrates.
 
-## Repository Structure
+> **Research should be traceable. Engineering should be testable. Claims should be verifiable.**
 
-```text
-.github/
-│
-├── profile/
-│   └── README.md
-│
-├── ISSUE_TEMPLATE/
-│   ├── bug_report.md
-│   └── feature_request.md
-│
-├── workflows/
-│   └── organization-checks.yml
-│
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── SECURITY.md
-├── SUPPORT.md
-├── FUNDING.yml
-│
-└── README.md
-```
+## Areas of work
 
-*The structure will evolve as organizational requirements grow. Optional files and workflows should only be added when implemented.*
+| Focus | What it covers |
+|---|---|
+| **Applied AI & Intelligent Systems** | Machine learning, AI architectures, evaluation, and practical intelligent applications. |
+| **Systems & Software Engineering** | Architecture, dependable software, developer tooling, and maintainable systems. |
+| **Autonomous Technologies** | Autonomous software, decision systems, automation, and related engineering investigations. |
+| **Research & Technical Publications** | Experiments, technical articles, investigations, methods, and evidence-backed findings. |
+| **Experimental & Product Engineering** | Prototypes, proof-of-concepts, and selected initiatives developed toward practical use. |
+| **Open-Source Innovation** | Reusable tools, public project development, and meaningful community collaboration. |
 
-## Engineering Standards
+These are areas of focus, not a claim that every area has a mature product or active project at all times. Project-specific repositories describe their actual status and scope.
 
-All applicable CRX Labs repositories should follow these principles:
+## How we approach the work
 
-- **Code Quality:** Maintain readable, modular, and maintainable code.
-- **Documentation:** Document project objectives, architecture, setup, and usage.
-- **Version Control:** Use meaningful commits and structured branching.
-- **Code Review:** Encourage peer review before merging significant changes.
-- **Testing:** Validate functionality through appropriate testing practices.
-- **Security:** Protect credentials, sensitive information, and proprietary assets.
-- **Reproducibility:** Document relevant environments, dependencies, and evaluation procedures.
+- **Problem before technology** — define the problem, constraints, and success criteria before selecting a solution.
+- **Evidence over hype** — distinguish measured results from estimates, hypotheses, and future plans.
+- **Engineering discipline** — prefer clear architecture, readable implementations, testing, and maintainability.
+- **Reproducibility** — document relevant methods, environments, dependencies, and evaluation procedures where practical.
+- **Security and responsibility** — protect credentials, sensitive data, private assets, and users.
+- **Intellectual honesty** — acknowledge limitations, failed approaches, uncertainty, and unresolved work.
+- **Proper attribution** — credit original work, sources, contributors, and third-party components.
 
-## Contribution Guidelines
+## Working with our repositories
 
-Contributions should be purposeful, technically meaningful, and aligned with the objectives of the respective project.
+Each repository is the source of truth for its own purpose, setup instructions, status, contribution process, and licensing terms. Before using or contributing to a project, read its README and any repository-specific documentation.
 
-Before submitting a contribution:
+A repository may be one of several kinds of work:
 
-1. Review the project's documentation.
-2. Check existing issues and pull requests.
-3. Follow the repository's contribution guidelines.
-4. Use descriptive commit messages.
-5. Provide relevant testing evidence.
-6. Submit a pull request with a clear explanation.
+- **Public open-source work** — intentionally released for public use and collaboration under its stated license.
+- **Research or experimental work** — investigations, prototypes, benchmarks, or proof-of-concepts that may be incomplete.
+- **Restricted or private work** — internal, commissioned, commercial, or otherwise access-controlled work that is not intended for public distribution.
 
-Project-specific contribution requirements take precedence where applicable.
+The presence of a project name or a public description does not grant permission to use private materials, datasets, credentials, or intellectual property. Always follow the access and license terms stated by the project.
 
-## Security & Responsible Disclosure
+## Contribution principles
 
-Security vulnerabilities should be reported responsibly through the designated security contact or private vulnerability reporting mechanism available in the respective repository.
+We value contributions that improve the substance, reliability, clarity, or usefulness of a project.
 
-Do not publish credentials, confidential project information, private datasets, or exploitable vulnerability details in public issues.
+Before opening an issue or pull request:
 
-## Research Integrity
+1. Read the target repository's README and contribution instructions.
+2. Check existing issues and pull requests to avoid duplicate work.
+3. Keep changes focused and explain the reasoning behind them.
+4. Include relevant tests, examples, or evaluation evidence when applicable.
+5. Disclose limitations, breaking changes, and any security implications.
 
-CRX Labs values:
+Contribution availability and review requirements may differ by repository. A public repository is not automatically open to every type of contribution; follow its stated policy.
 
-- Evidence-based technical investigation.
-- Reproducible experimentation.
-- Accurate attribution and citations.
-- Honest reporting of results and limitations.
-- Responsible use of emerging technologies.
+## Security and responsible disclosure
 
-Research claims and performance metrics should be supported by verifiable evidence.
+Do not publish passwords, API keys, tokens, private datasets, personal information, or confidential project material in issues or pull requests.
 
-## Intellectual Property & Licensing
+For a suspected vulnerability, use the repository's private vulnerability reporting option when available. Otherwise, follow the security contact or reporting instructions published by that project. Please avoid publicly disclosing exploitable details before maintainers have had a reasonable opportunity to investigate.
 
-Each repository must explicitly communicate its licensing and usage terms.
+## Research integrity and intellectual property
 
-Do not assume that all CRX Labs repositories are open-source or that their contents are freely reusable.
+Research findings and performance figures should be accompanied by enough context to understand how they were obtained. Where relevant, project documentation should identify datasets, evaluation conditions, baselines, assumptions, and limitations.
 
-Commercial, experimental, and restricted projects may have different access and licensing requirements.
+Licensing is defined at the individual repository or project level. **Do not assume that all material published under the organization is open-source, commercially reusable, or available for redistribution.** Third-party assets and dependencies remain subject to their own licenses.
 
-## Organizational Resources
+## Organization resources
 
-- **Organization:** CRX Labs
-- **GitHub:** https://github.com/CRX-Labs
-- **Organization Profile:** See [`profile/README.md`](profile/README.md)
+- **Organization:** [CRX Labs](https://github.com/CRX-Labs)
+- **Organization profile:** [`profile/README.md`](./profile/README.md)
+- **Public repositories:** [github.com/CRX-Labs](https://github.com/CRX-Labs?tab=repositories)
+
+For project-specific questions, use the communication channel listed in that project's repository.
 
 ---
 
 <p align="center">
-  <strong>CRX LABS</strong><br/>
+  <strong>CRX LABS</strong>
+  <br />
   <sub>Independent Research & Engineering</sub>
+  <br />
+  <sub>Building with rigor. Publishing with integrity.</sub>
 </p>
