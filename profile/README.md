@@ -1,4 +1,4 @@
-![CRX Labs](./banner.png)
+![CRX Labs](../banner.png)
 
 <p align="center">
   <strong>INDEPENDENT RESEARCH & ENGINEERING</strong>
